@@ -17,13 +17,13 @@ export default async function Home() {
             <Link href="/" className="flex items-center space-x-2">
               <Sparkles className="h-6 w-6 text-blue-500 animate-pulse" />
               <span className="font-bold bg-gradient-to-r from-blue-500 to-indigo-500 text-transparent bg-clip-text">
-                MoePush
+                iPush
               </span>
             </Link>
           </div>
           <div className="flex items-center space-x-6">
             <Link
-              href="https://github.com/beilunyang/moepush"
+              href="https://www.lylares.com"
               target="_blank"
               rel="noreferrer"
               className="text-sm font-medium text-gray-600 hover:text-blue-500 transition-colors"
@@ -51,14 +51,14 @@ export default async function Home() {
           <div className="container flex max-w-[64rem] flex-col items-center gap-4 text-center pt-14 pb-24 md:pb-32">
             <div className="inline-block rounded-full bg-blue-100 px-4 py-1.5 text-sm font-medium text-blue-600">
               <span className="inline-block animate-bounce mr-2">✨</span>
-              <Link href="https://github.com/beilunyang/moepush" target="_blank" rel="noreferrer">
-                MoePush 现已开源
+              <Link href="https://www.lylares.com" target="_blank" rel="noreferrer">
+                iPush 现已开放
               </Link>
               <span className="inline-block animate-bounce ml-2">✨</span>
             </div>
             <h1 className="font-bold text-4xl sm:text-5xl md:text-6xl lg:text-7xl">
               <span className="bg-gradient-to-r from-blue-500 to-indigo-500 text-transparent bg-clip-text">
-                可爱又强大的
+                便捷又强大的
               </span>
               <br />
               消息推送服务
@@ -84,7 +84,7 @@ export default async function Home() {
           <div className="mx-auto flex max-w-[64rem] flex-col items-center space-y-4 text-center">
             <Sparkles className="h-12 w-12 text-blue-500 animate-pulse" />
             <h2 className="font-bold text-3xl leading-[1.1] sm:text-3xl md:text-6xl bg-gradient-to-r from-blue-500 to-indigo-500 text-transparent bg-clip-text">
-              萌萌哒的功能
+              简单易用的功能
             </h2>
             <p className="max-w-[85%] leading-normal text-gray-600 sm:text-lg sm:leading-7">
               为您的应用提供强大而实用的消息推送能力
@@ -200,7 +200,16 @@ export default async function Home() {
                 rel="noreferrer"
                 className="font-medium hover:text-blue-500 transition-colors"
               >
-                BeilunYang
+                BeilunYang .
+              </a>
+
+              <a
+                href="https://wwww.lylares.com/"
+                target="_blank"
+                rel="noreferrer"
+                className="font-medium hover:text-blue-500 transition-colors"
+              >
+                lylares
               </a>
             </p>
           </div>
