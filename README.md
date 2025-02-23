@@ -9,7 +9,7 @@
 
 ## 在线演示
 
-[https://moepush.app](https://moepush.app)
+[https://ipush.lylares.com](https://ipush.lylares.com)
 
 ![home](https://pic.otaku.ren/20250221/AQAD5b8xG9vVwFV-.jpg)
 
