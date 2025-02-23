@@ -20,7 +20,7 @@ export default async function MoeLayout({
             <Link href="/" className="flex items-center gap-2 transition-colors hover:opacity-80">
               <Sparkles className="h-6 w-6 text-blue-500" />
               <span className="hidden font-bold bg-gradient-to-r from-blue-500 to-indigo-500 text-transparent bg-clip-text sm:inline-block">
-                MoePush
+                iPush
               </span>
             </Link>
             <nav className="hidden md:flex items-center gap-1">
